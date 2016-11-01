@@ -1,0 +1,1 @@
+1) rename the boathouse app by making a new app called athletes and copying this all over
