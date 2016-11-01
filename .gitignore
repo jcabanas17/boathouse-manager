@@ -43,7 +43,7 @@ tests/report/
 ######################
 *.log
 *.sql
-db.sqlite3
+**.sqlite3
 
 # OS generated files #
 ######################
