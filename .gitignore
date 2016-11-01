@@ -42,8 +42,8 @@ tests/report/
 # Logs and databases #
 ######################
 *.log
-*.sql
-**.sqlite3
+
+boathouse-manager/db.sqlite3
 
 # OS generated files #
 ######################
